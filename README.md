@@ -1,2 +1,2 @@
-# Jonathan Sudoku
+# Sudoku game made in Java
 
